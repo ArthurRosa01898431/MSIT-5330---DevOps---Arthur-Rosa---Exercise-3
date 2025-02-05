@@ -8,7 +8,7 @@ pipeline {
 
                steps {
 
-                    echo "this is the main branch"
+                    echo "this is the test branch"
 
                }
 
